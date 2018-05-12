@@ -1,0 +1,36 @@
+_repo: John-Burnet-of-Barns--A-Romance_40014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: John Burnet of Barns; Introduction; BOOK ONE; Tweeddale; ONE; The Adventure
+  which Befell Me in the Wood of Dawyck; TWO; The House of Barns; THREE; The Spate
+  in Tweed; FOUR; I Go to the College at Glasgow; FIVE; Cousinly Affection; SIX; How
+  Master Gilbert Burnet Played a Game and was Checkmated; SEVEN; The 'Pegasus' Inn
+  at Peebles and how a Stranger Returned from the Wars; EIGHT; I Take Leave of My
+  Friends; NINE; I Ride Out on My Travels and Find a Companion; BOOK TWO; The Low
+  Countries; ONE; Of My Voyage to the Low Countries; TWO; I Visit Master Peter Wishart;
+  THREE
+gutenberg_issued: '2012-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- 17th century -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'John Burnet of Barns: A Romance'
+url: http://www.gutenberg.org/ebooks/40014
